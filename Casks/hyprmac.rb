@@ -1,6 +1,6 @@
 cask "hyprmac" do
-  version "0.17.0"
-  sha256 "331615f55c41dc3d1bb9fc9948b642e1a1ff6732603f4debd6cd279204234a2d"
+  version "0.17.1"
+  sha256 "5f1436c3aa4ca78a3ca1d038cf7e6ef92213f789c588a164656a2e327979f7cc"
 
   url "https://github.com/zacharytgray/HyprMac/releases/download/v#{version}/HyprMac-#{version}.dmg"
   name "HyprMac"
